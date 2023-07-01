@@ -1,0 +1,32 @@
+html {
+    background-image: url(./Imagens/tech.jpg);
+    size:100%
+}
+h1,h3 {
+    font-family: 'Ysabeau Infant', sans-serif;
+    text-align: center;
+}
+ul {
+    font-family: 'Ysabeau Infant', sans-serif;
+    text-align: left;
+    position: fixed;
+    top:55%;
+    left: 5%;
+    color: white;
+    font-size: 16pt;
+}
+
+.ab {
+    position: absolute;
+    border-radius: 50%;
+    border: 5px solid gray;
+    height: 40%;
+    Top: 5%;
+    left:5%;
+}
+
+.quote {
+    font-family: 'Ysabeau Infant', sans-serif;
+    margin-top: 20%;
+    margin-left: 40%; 
+}
